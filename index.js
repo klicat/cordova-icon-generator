@@ -62,6 +62,14 @@ var imageTargets = [
   ['ios', 'icon-50.png', 50],
   ['ios', 'icon-50@2x.png', 100],
   ['ios', 'icon-83.5@2x.png', 167],
+	
+  ['ios', 'icon-20.png', 20],
+  ['ios', 'icon-24@2x.png', 48],
+  ['ios', 'icon-27.5@2x.png', 54],
+  ['ios', 'icon-44@2x.png', 88],
+  ['ios', 'icon-86@2x.png', 172],
+  ['ios', 'icon-98@2x.png', 196],
+  ['ios', 'icon-1024.png', 1024],
 
   ['android', 'mipmap-ldpi/$$ICON$$.png', 36],
   ['android', 'mipmap-mdpi/$$ICON$$.png', 48],
